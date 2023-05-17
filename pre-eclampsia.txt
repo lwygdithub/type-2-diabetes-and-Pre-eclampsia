@@ -1,0 +1,1 @@
+https://storage.googleapis.com/finngen-public-data-r8/summary_stats/finngen_R8_O15_PRE_OR_ECLAMPSIA.gz
